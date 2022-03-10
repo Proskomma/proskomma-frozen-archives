@@ -1,6 +1,6 @@
 {
   "name": "proskomma-frozen-archives",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Some archives, made with Proskomma Freeze, for testing",
   "type": "commonjs",
   "main": "index.js",
